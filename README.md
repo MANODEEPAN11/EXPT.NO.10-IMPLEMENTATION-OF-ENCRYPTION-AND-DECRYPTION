@@ -108,6 +108,7 @@ printf("%c",m[i]);
 
 
 # OUTPUT:
+![e10](https://github.com/user-attachments/assets/56650271-eef0-4daa-9e3b-9c6d7587cb4d)
 
  
 
